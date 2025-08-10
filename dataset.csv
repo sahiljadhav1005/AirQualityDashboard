@@ -1,0 +1,10 @@
+City,Date,Temperature_C,Humidity_Percent,Rainfall_mm,Weather
+Mumbai,2025-08-01,29,80,12,Light Rain
+Mumbai,2025-08-02,30,78,0,Clear Sky
+Mumbai,2025-08-03,28,85,22,Heavy Rain
+Delhi,2025-08-01,35,60,0,Sunny
+Delhi,2025-08-02,34,58,1,Partly Cloudy
+Delhi,2025-08-03,33,65,5,Thunderstorm
+Pune,2025-08-01,26,88,18,Light Rain
+Pune,2025-08-02,27,85,10,Cloudy
+Pune,2025-08-03,26,90,20,Heavy Rain
