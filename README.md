@@ -25,10 +25,10 @@ It connects to a live **Weather API** (OpenWeather) to fetch real-time data and 
 
 ## 📸 Screenshots
 **Dashboard Overview**  
-![Dashboard Overview](images/dashboard-overview.png)
+![Dashboard Overview](dashboard-overview.png)
 
 **Temperature Trends**  
-![Temperature Trends](images/temp-trends.png)
+![Temperature Trends](temp-trends.png)
 
 ---
 
